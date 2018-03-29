@@ -92,4 +92,4 @@ server.pid
 .idea/sbt.xml
 .idea/scala_compiler.xml
 .idea/vcs.xml
-src/test/
+
